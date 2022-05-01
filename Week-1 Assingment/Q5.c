@@ -10,5 +10,5 @@ void main() {
     circumference=diameter*3.14;
     area=radius*radius*3.14;
 
-    printf("Diameter : %f \n Circumference : %f \n Area : %f",diameter,circumference,area);3
+    printf("Diameter : %f \n Circumference : %f \n Area : %f",diameter,circumference,area);
 }
